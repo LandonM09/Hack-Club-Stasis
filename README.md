@@ -1,3 +1,4 @@
+![Robotic Arm](Screenshot 2026-03-08 005556.jpg)
 #My 5 DOF Desktop Robotic Arm
 Hack Club Stasis Project
 
