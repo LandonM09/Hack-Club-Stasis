@@ -1,21 +1,22 @@
 ![Robotic Arm](Screenshot 2026-03-08 005556.jpg)
-#My 5 DOF Desktop Robotic Arm
+
+# My 5 DOF Desktop Robotic Arm
 Hack Club Stasis Project
 
 this project is a 6 DOF (degree of freedom) robotic arm designed to pick up desk stuff, for example a can, a pencil and so much more. The arm is primarily 3d printed and powered by high tourque servos controlled over a web interface running on an esp32
-##The Goal:
+## The Goal:
     i want a cool arm
     i want it to be able to pick up a can of monster
     i wanna get deeper into the engineering process
 
-##Features / Cool things:
+## Features / Cool things:
     5 Degrees of freedom (thats more than 4!)
     fully 3d printed in PLA with optional TPU parts
     cool nicley articulated wrist
     Funky 4-Bar gripper (its designed for a monster can)
     wireless control over esp32
 
-##The Degrees of fredom
+## The Degrees of fredom
     base rotation
     shoulder joint
     elbow joint
@@ -23,7 +24,7 @@ this project is a 6 DOF (degree of freedom) robotic arm designed to pick up desk
     gripper open/close
 *(thats a lot of freedom!)*
 
-##Hardware/BOM
+## Hardware/BOM
     ESP32 MicroController With Wirless
     REV Robotics Servo Power Module
     2 x 40kg servos (shoulder, elbow)
