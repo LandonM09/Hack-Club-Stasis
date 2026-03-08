@@ -36,4 +36,4 @@ this project is a 6 DOF (degree of freedom) robotic arm designed to pick up desk
 ## CAD
     All cad was done in **Onshape** 
     Onshape Link:
-[Click Me!](https://cad.onshape.com/documents/f8b7ed66decb5e186765f33e/w/57c4c996fe0e253bf14dcaf8/e/4cd8dd7666434088b9f34eb3?renderMode=0&uiState=69ad383a4c0b245ce0698e09)
+[Click Me!](https://cad.onshape.com/documents/f8b7ed66decb5e186765f33e/w/57c4c996fe0e253bf14dcaf8/e/4cd8dd7666434088b9f34eb3?renderMode=0&uiState=69ad3a974c0b245ce06990f0)
