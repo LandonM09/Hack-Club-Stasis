@@ -1,4 +1,4 @@
-![Robotic Arm](Arm.jpg)
+![Robotic Arm](Arm.png)
 
 # My 5 DOF Desktop Robotic Arm
 Hack Club Stasis Project
