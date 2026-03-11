@@ -37,3 +37,16 @@ this project is a 6 DOF (degree of freedom) robotic arm designed to pick up desk
     All cad was done in **Onshape** 
     Onshape Link:
 [Click Me!](https://cad.onshape.com/documents/f8b7ed66decb5e186765f33e/w/57c4c996fe0e253bf14dcaf8/e/4cd8dd7666434088b9f34eb3?renderMode=0&uiState=69ad3a974c0b245ce06990f0)
+# But.. What problem does it solve/ why should I be making it
+
+## problem 1:
+
+I don’t have a robotic arm, Thats a problem in itself
+
+## problem 2:
+
+Im not cool enough, have you ever seen someone who built their own robotic arm that isn’t cool?
+
+## problem 3:
+
+I only have 2 hands, why would I let go of my keyboard and mouse for more than 3 seconds, when instead I can spend hours on end designing something to do it for me
