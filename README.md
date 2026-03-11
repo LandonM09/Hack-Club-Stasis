@@ -41,12 +41,12 @@ this project is a 6 DOF (degree of freedom) robotic arm designed to pick up desk
 
 ## problem 1:
 
-I don’t have a robotic arm, Thats a problem in itself
+    I don’t have a robotic arm, Thats a problem in itself
 
 ## problem 2:
 
-Im not cool enough, have you ever seen someone who built their own robotic arm that isn’t cool?
+    Im not cool enough, have you ever seen someone who built their own robotic arm that isn’t cool?
 
 ## problem 3:
 
-I only have 2 hands, why would I let go of my keyboard and mouse for more than 3 seconds, when instead I can spend hours on end designing something to do it for me
+    I only have 2 hands, why would I let go of my keyboard and mouse for more than 3 seconds, when instead I can spend hours on end designing something to do it for me
